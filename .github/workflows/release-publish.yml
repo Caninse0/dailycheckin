@@ -15,7 +15,7 @@ jobs:
 
     environment:
       name: pypi
-      url: https://pypi.org/p/dailycheckin-Caninse0
+      url: https://pypi.org/project/dailycheckin-caninse0
 
     steps:
       - uses: actions/checkout@v4
@@ -33,5 +33,4 @@ jobs:
       - name: Publish distribution 📦 to PyPI
         uses: pypa/gh-action-pypi-publish@release/v1
         with:
-            skip-existing: true
-            password: ${{ secrets.PYPI_API_TOKEN }}
+            attestations: true

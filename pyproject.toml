@@ -1,5 +1,5 @@
 [project]
-name = "dailycheckin"
+name = "dailycheckin-caninse0"
 version = "25.12.9"
 dependencies = [
     "pycryptodome==3.17",

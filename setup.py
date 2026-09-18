@@ -2,9 +2,9 @@ import os
 
 from setuptools import find_packages, setup
 
-NAME = "dailycheckin"
+NAME = "dailycheckin-caninse0"
 FOLDER = "dailycheckin"
-DESCRIPTION = "dailycheckin"
+DESCRIPTION = "dailycheckin-caninse0"
 EMAIL = "133397418@qq.com"
 AUTHOR = "Sitoi"
 REQUIRES_PYTHON = ">=3.9.0"

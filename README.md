@@ -131,10 +131,10 @@ This project is [MIT](https://github.com/Sitoi/dailycheckin/blob/main/LICENSE) l
 [docker-stars-shield]: https://img.shields.io/docker/stars/sitoi/dailycheckin?labelColor=black&style=flat-square
 [docker-stars-link]: https://hub.docker.com/repository/docker/sitoi/dailycheckin
 [pypi-dm-shield]: https://img.shields.io/pypi/dm/dailycheckin?label=pypi&labelColor=black&style=flat-square
-[pypi-dm-link]: https://pypi.org/project/dailycheckin/
-[python-version-link]: https://pypi.org/project/dailycheckin/
+[pypi-dm-link]: https://pypi.org/project/dailycheckin-caninse0/
+[python-version-link]: https://pypi.org/project/dailycheckin-caninse0/
 [python-version-shield]: https://img.shields.io/pypi/pyversions/dailycheckin?labelColor=black&style=flat-square
 [pypi-version-shield]: https://img.shields.io/pypi/v/dailycheckin?labelColor=black&style=flat-square
-[pypi-version-link]: https://pypi.org/project/dailycheckin/
+[pypi-version-link]: https://pypi.org/project/dailycheckin-caninse0/
 [starchart-shield]: https://api.star-history.com/svg?repos=sitoi/dailycheckin&type=Date
 [starchart-link]: https://star-history.com/#sitoi/dailycheckin&Date
